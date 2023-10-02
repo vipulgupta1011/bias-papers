@@ -5,7 +5,7 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 ## Quantifying bias
 
 | Title | Venue | Year |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | [On Measuring and Mitigating Biased Inferences of Word Embeddings](https://arxiv.org/pdf/1908.09369.pdf) | AAAI | 2020 |
 | [Evaluating Gender Bias in Machine Translation](https://aclanthology.org/P19-1164.pdf) | ACL | 2019 |
 | [Understanding Undesirable Word Embedding Associations](https://aclanthology.org/P19-1166.pdf) | ACL | 2019 |
