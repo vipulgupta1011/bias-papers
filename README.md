@@ -16,6 +16,7 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 
 | Title | Venue | Year |
 | ------------- | ------------- | ------------- |
+| [Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal](https://aclanthology.org/2022.findings-acl.55.pdf) | ACL | 2022 |
 | [A General Framework for Implicit and Explicit Debiasing of Distributional Word Vector Spaces](https://arxiv.org/pdf/1909.06092.pdf) | AAAI | 2020 |
 | [Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology](https://aclanthology.org/P19-1161v2.pdf) | ACL | 2019 |
 
