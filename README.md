@@ -18,6 +18,7 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 | ------------- | ------------- | ------------- |
 | [Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal](https://aclanthology.org/2022.findings-acl.55.pdf) | ACL | 2022 |
 | [Balancing out Bias: Achieving Fairness Through Balanced Training](https://aclanthology.org/2022.emnlp-main.779.pdf) }| EMNLP | 2022 |
+| [Sustainable Modular Debiasing of Language Models](https://arxiv.org/pdf/2109.03646.pdf) | EMNLP | 2021 |
 | [A General Framework for Implicit and Explicit Debiasing of Distributional Word Vector Spaces](https://arxiv.org/pdf/1909.06092.pdf) | AAAI | 2020 |
 | [Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives](https://ojs.aaai.org/index.php/AAAI/article/view/5374/5229) | AAAI | 2020 |
 | [Towards Socially Responsible AI: Cognitive Bias-Aware Multi-Objective Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5654) | AAAI | 2020 |
@@ -36,6 +37,7 @@ These are list of papers which talks about bias in NLP and do not fit in the abo
 | Title | Venue | Year |
 | ------------- | ------------- | ------------- |
 | [Theories of “Gender” in NLP Bias Research](https://dl.acm.org/doi/10.1145/3531146.3534627) | FAccT | 2022 |
+| [Using Natural Sentences for Understanding Biases in Language Models](https://aclanthology.org/2022.naacl-main.203.pdf) | NAACL | 2022 |
 | [Measurement and Fairness](https://dl.acm.org/doi/pdf/10.1145/3442188.3445901) | FAccT | 2021 |
 
 
