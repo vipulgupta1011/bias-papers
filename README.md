@@ -42,6 +42,7 @@ These are list of papers which talks about bias in NLP and do not fit in the abo
 | [Re-contextualizing Fairness in NLP: The Case of India](https://arxiv.org/pdf/2209.12226.pdf) | AACL | 2022 |
 | [Theories of “Gender” in NLP Bias Research](https://dl.acm.org/doi/10.1145/3531146.3534627) | FAccT | 2022 |
 | [Using Natural Sentences for Understanding Biases in Language Models](https://aclanthology.org/2022.naacl-main.203.pdf) | NAACL | 2022 |
+| [Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets](https://aclanthology.org/2021.acl-long.81/) | ACL | 2021 |
 | [Measurement and Fairness](https://dl.acm.org/doi/pdf/10.1145/3442188.3445901) | FAccT | 2021 |
 | [The Social Impact of Natural Language Processing](https://aclanthology.org/P16-2096.pdf) | ACL | 2016 |
 
