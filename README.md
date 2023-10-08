@@ -16,6 +16,7 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 
 | Title | Venue | Year |
 | ------------- | ------------- | ------------- |
+| [A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning](https://aclanthology.org/2022.aacl-main.61.pdf) | AACL | 2022 |
 | [Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal](https://aclanthology.org/2022.findings-acl.55.pdf) | ACL | 2022 |
 | [Balancing out Bias: Achieving Fairness Through Balanced Training](https://aclanthology.org/2022.emnlp-main.779.pdf) }| EMNLP | 2022 |
 | [Sustainable Modular Debiasing of Language Models](https://arxiv.org/pdf/2109.03646.pdf) | EMNLP | 2021 |
@@ -23,6 +24,7 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 | [Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives](https://ojs.aaai.org/index.php/AAAI/article/view/5374/5229) | AAAI | 2020 |
 | [Towards Socially Responsible AI: Cognitive Bias-Aware Multi-Objective Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5654) | AAAI | 2020 |
 | [Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology](https://aclanthology.org/P19-1161v2.pdf) | ACL | 2019 |
+| [Debiasing Gender biased Hindi Words with Word-embedding](https://dl.acm.org/doi/pdf/10.1145/3377713.3377792) | ACAI | 2019 |
 
 
 ## Datasets for measuring bias
@@ -36,9 +38,12 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 These are list of papers which talks about bias in NLP and do not fit in the above categories.
 | Title | Venue | Year |
 | ------------- | ------------- | ------------- |
+| [On Measures of Biases and Harms in NLP](https://arxiv.org/pdf/2108.03362.pdf) | AACL | 2022 |
+| [Re-contextualizing Fairness in NLP: The Case of India](https://arxiv.org/pdf/2209.12226.pdf) | AACL | 2022 |
 | [Theories of “Gender” in NLP Bias Research](https://dl.acm.org/doi/10.1145/3531146.3534627) | FAccT | 2022 |
 | [Using Natural Sentences for Understanding Biases in Language Models](https://aclanthology.org/2022.naacl-main.203.pdf) | NAACL | 2022 |
 | [Measurement and Fairness](https://dl.acm.org/doi/pdf/10.1145/3442188.3445901) | FAccT | 2021 |
+| [The Social Impact of Natural Language Processing](https://aclanthology.org/P16-2096.pdf) | ACL | 2016 |
 
 
 
