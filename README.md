@@ -38,6 +38,7 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 These are list of papers which talks about bias in NLP and do not fit in the above categories.
 | Title | Venue | Year |
 | ------------- | ------------- | ------------- |
+| [Can Voice Assistants Be Microaggressors? Cross-Race Psychological Responses to Failures of Automatic Speech Recognition](https://dl.acm.org/doi/pdf/10.1145/3544548.3581357) | CHI | 2023 |
 | [On Measures of Biases and Harms in NLP](https://arxiv.org/pdf/2108.03362.pdf) | AACL | 2022 |
 | [Re-contextualizing Fairness in NLP: The Case of India](https://arxiv.org/pdf/2209.12226.pdf) | AACL | 2022 |
 | [Theories of “Gender” in NLP Bias Research](https://dl.acm.org/doi/10.1145/3531146.3534627) | FAccT | 2022 |
