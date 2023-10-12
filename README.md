@@ -23,6 +23,7 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 | [A General Framework for Implicit and Explicit Debiasing of Distributional Word Vector Spaces](https://arxiv.org/pdf/1909.06092.pdf) | AAAI | 2020 |
 | [Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives](https://ojs.aaai.org/index.php/AAAI/article/view/5374/5229) | AAAI | 2020 |
 | [Towards Socially Responsible AI: Cognitive Bias-Aware Multi-Objective Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5654) | AAAI | 2020 |
+| [Adhering, Steering, and Queering: Treatment of Gender in Natural Language Generation](https://dl.acm.org/doi/10.1145/3313831.3376315) | CHI | 2020 |
 | [Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology](https://aclanthology.org/P19-1161v2.pdf) | ACL | 2019 |
 | [Debiasing Gender biased Hindi Words with Word-embedding](https://dl.acm.org/doi/pdf/10.1145/3377713.3377792) | ACAI | 2019 |
 
@@ -30,14 +31,19 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 ## Datasets for measuring bias
 | Title | Venue | Year |
 | ------------- | ------------- | ------------- |
+| [NLPositionality: Characterizing Design Biases of Datasets and Models](https://aclanthology.org/2023.acl-long.505/) | ACL | 2023 |
 | [CALM : A Multi-task Benchmark for Comprehensive Assessment of Language Model Bias](https://arxiv.org/abs/2308.12539) | arXiv | 2023 |
 | [“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset](https://aclanthology.org/2022.emnlp-main.625/) | EMNLP | 2022 |
 | [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/pdf/2004.09456.pdf) | ACL | 2021 |
+| [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://aclanthology.org/2020.emnlp-main.154.pdf) | EMNLP | 2020 |
+| [UNQOVERing Stereotyping Biases via Underspecified Questions](https://aclanthology.org/2020.findings-emnlp.311/) | EMNLP | 2020 |
+| [Evaluating models’ local decision boundaries via contrast sets](https://aclanthology.org/2020.findings-emnlp.117/) | EMNLP | 2020 |
 
 ## Miscellanenous Works
 These are list of papers which talks about bias in NLP and do not fit in the above categories.
 | Title | Venue | Year |
 | ------------- | ------------- | ------------- |
+| [From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models](https://aclanthology.org/2023.acl-long.656/) | ACL | 2023 |
 | [Can Voice Assistants Be Microaggressors? Cross-Race Psychological Responses to Failures of Automatic Speech Recognition](https://dl.acm.org/doi/pdf/10.1145/3544548.3581357) | CHI | 2023 |
 | [On Measures of Biases and Harms in NLP](https://arxiv.org/pdf/2108.03362.pdf) | AACL | 2022 |
 | [Re-contextualizing Fairness in NLP: The Case of India](https://arxiv.org/pdf/2209.12226.pdf) | AACL | 2022 |
@@ -45,6 +51,8 @@ These are list of papers which talks about bias in NLP and do not fit in the abo
 | [Using Natural Sentences for Understanding Biases in Language Models](https://aclanthology.org/2022.naacl-main.203.pdf) | NAACL | 2022 |
 | [Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets](https://aclanthology.org/2021.acl-long.81/) | ACL | 2021 |
 | [Measurement and Fairness](https://dl.acm.org/doi/pdf/10.1145/3442188.3445901) | FAccT | 2021 |
+| [Women’s Syntactic Resilience and Men’s Grammatical Luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing](https://aclanthology.org/P19-1339.pdf) | ACL | 2019 |
+| [Addressing age-related bias in sentiment analysis](https://dl.acm.org/doi/abs/10.1145/3173574.3173986) | CHI | 2018 |
 | [The Social Impact of Natural Language Processing](https://aclanthology.org/P16-2096.pdf) | ACL | 2016 |
 
 
