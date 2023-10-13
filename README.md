@@ -7,6 +7,7 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 | Title | Venue | Year |
 | ------------- | ------------- | ------------- |
 | [Probing as Quantifying Inductive Bias](https://aclanthology.org/2022.acl-long.129.pdf) | ACL | 2022 |
+| [Detecting Emergent Intersectional Biases: Contextualized Word Embeddings Contain a Distribution of Human-like Biases](https://dl.acm.org/doi/pdf/10.1145/3461702.3462536) | AIES | 2021 |
 | [On Measuring and Mitigating Biased Inferences of Word Embeddings](https://arxiv.org/pdf/1908.09369.pdf) | AAAI | 2020 |
 | [Evaluating Gender Bias in Machine Translation](https://aclanthology.org/P19-1164.pdf) | ACL | 2019 |
 | [Understanding Undesirable Word Embedding Associations](https://aclanthology.org/P19-1166.pdf) | ACL | 2019 |
@@ -39,7 +40,6 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 | [CALM : A Multi-task Benchmark for Comprehensive Assessment of Language Model Bias](https://arxiv.org/abs/2308.12539) | arXiv | 2023 |
 | [“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset](https://aclanthology.org/2022.emnlp-main.625/) | EMNLP | 2022 |
 | [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/pdf/2004.09456.pdf) | ACL | 2021 |
-| [Detecting Emergent Intersectional Biases: Contextualized Word Embeddings Contain a Distribution of Human-like Biases](https://dl.acm.org/doi/pdf/10.1145/3461702.3462536) | AIES | 2021 |
 | [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://aclanthology.org/2020.emnlp-main.154.pdf) | EMNLP | 2020 |
 | [UNQOVERing Stereotyping Biases via Underspecified Questions](https://aclanthology.org/2020.findings-emnlp.311/) | EMNLP | 2020 |
 | [Evaluating models’ local decision boundaries via contrast sets](https://aclanthology.org/2020.findings-emnlp.117/) | EMNLP | 2020 |
