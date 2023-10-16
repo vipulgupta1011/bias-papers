@@ -51,11 +51,13 @@ Here is a list of papers focused on bias in NLP. Please feel free to send a pull
 | [UNQOVERing Stereotyping Biases via Underspecified Questions](https://aclanthology.org/2020.findings-emnlp.311/) | EMNLP | 2020 |
 | [Evaluating models’ local decision boundaries via contrast sets](https://aclanthology.org/2020.findings-emnlp.117/) | EMNLP | 2020 |
 | [Automatically Identifying Gender Issues in Machine Translation using Perturbations](https://aclanthology.org/2020.findings-emnlp.180/) | EMNLP | 2020 |
+| [Winogender - Gender Bias in Coreference Resolution](https://aclanthology.org/N18-2002/) | NAACL | 2018 |
 
 ## Miscellanenous Works
 These are list of papers which talks about bias in NLP and do not fit in the above categories.
 | Title | Venue | Year |
 | ------------- | ------------- | ------------- |
+| [The Tail Wagging the Dog: Dataset Construction Biases of Social Bias Benchmarks](https://aclanthology.org/2023.acl-short.118.pdf) | ACL | 2023 |
 | [From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models](https://aclanthology.org/2023.acl-long.656/) | ACL | 2023 |
 | [Can Voice Assistants Be Microaggressors? Cross-Race Psychological Responses to Failures of Automatic Speech Recognition](https://dl.acm.org/doi/pdf/10.1145/3544548.3581357) | CHI | 2023 |
 | [On Measures of Biases and Harms in NLP](https://arxiv.org/pdf/2108.03362.pdf) | AACL | 2022 |
